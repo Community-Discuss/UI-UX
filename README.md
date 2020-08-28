@@ -1,7 +1,7 @@
 #  COMMMUNITY DESIGN
 <p align="center">
   <a href="https://github.com/Community-Discuss">
-    <img src="https://github.com/Community-Discuss/UI-UX/blob/master/24045575.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Community-Discuss/UI-UX/blob/master/24045575.jpg" alt="Logo" width="120" height="120">
   </a>
   <p align="center">
   </p>
