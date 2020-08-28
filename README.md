@@ -1,7 +1,3 @@
-# UI-UX
-This is for design part.
-
-
 #  COMMMUNITY DESIGN
 <p align="center">
   <a href="https://github.com/Community-Discuss">
